@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Saltamontes</string>
+    <string name="Documento">Documento</string>
+    <string name="Nombre_Completo">Nombre Completo</string>
+    <string name="Edad">Edad</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Nota1">Nota°1</string>
+    <string name="Nota2">Nota°2</string>
+    <string name="Nota3">Nota°3</string>
+    <string name="Nota4">Nota°4</string>
+    <string name="Nota5">Nota°5</string>
+    <string name="Materia1">Materia°1</string>
+    <string name="Materia2">Materia°2</string>
+    <string name="Materia3">Materia°3</string>
+    <string name="Materia4">Materia°4</string>
+    <string name="Materia5">Materia°5</string>
+    <string name="Welcome">REGISTRO</string>
+    <string name="Promedio_Final">Promedio Final</string>
+    <string name="Registro">REGISTRO</string>
+    <string name="Estadisticas">Estadisticas</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="Que_Es">Es una App la cual fue diseñada con el fin de darle un tipo de solución a un colegio llamado Mis Pequeños Saltamontes debido a que se necesitaba un pequeño sistema de registro de estudiantes y que por medio de los datos ingresados en el registro se pueda obtener la información de cuantos ganaron cuantos perdieron y cuantos pueden recuperar, todo esto con el fin de realizar todo mas facil y rapido.</string>
+    <string name="Como_Funciona">¿Como Funciona?</string>
+    <string name="ComoFunciona">En el momento que se ingresa a la aplicación, estara un menu con tres botones los cuales tienen la indicación clara para dirigirse al lugar correspondiente.</string>
+    <string name="NuevoRegistro">Se le presentara un formulario, el cual contiene los datos que debe ingresar para registrar un nuevo estudiante, luego de esto le podra dar al boton registrar y este lo enviara a otra ventana donde se mostrara la confirmación del estudiante registrado.</string>
+    <string name="EstadisticasApp">En la ventana estadisticas se podra mostrar todos los registros guardados junto con los que perdieron los que ganaron y la cantidad de estudiantes que pueden recuperar.</string>
+</resources>
